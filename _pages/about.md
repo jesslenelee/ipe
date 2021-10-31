@@ -18,5 +18,3 @@ redirect_from:
 How you can contribute
 ------
 
-
-# **Markdown generator**
